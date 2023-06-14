@@ -1,4 +1,4 @@
-# Project: Cryptocurrency Data Analysis and Visualization (https://th.bing.com/th/id/OIP.L4QeNCp8_xgfsbmkNci59AHaEK?w=322&h=180&c=7&r=0&o=5&pid=1.7)
+# Project: Cryptocurrency Data Analysis and Visualization ()
 
 # Overview:
   This project focuses on retrieving and analyzing cryptocurrency data from the CoinMarketCap API. The data is collected periodically and stored in a CSV file for further analysis. The project involves automating data collection, performing statistical calculations on the data, and visualizing the results using plots.
