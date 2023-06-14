@@ -1,5 +1,4 @@
-# Project: Cryptocurrency Data Analysis and Visualization [Alt text](https://github.com/vdavidanalyst/Cryptocurrency-Data-Analysis-and-Visualization/blob/main/cryp.jpg)
-
+# Project: Cryptocurrency Data Analysis and Visualization 
 # Overview:
   This project focuses on retrieving and analyzing cryptocurrency data from the CoinMarketCap API. The data is collected periodically and stored in a CSV file for further analysis. The project involves automating data collection, performing statistical calculations on the data, and visualizing the results using plots.
 
